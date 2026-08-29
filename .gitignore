@@ -1,0 +1,13 @@
+# Environment and secrets
+.env
+.env.*
+
+# Internal documentation
+process.md
+
+# Logs and Python cache
+*.log
+__pycache__/
+*.pyc
+.venv/
+venv/
